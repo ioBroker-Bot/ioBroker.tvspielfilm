@@ -144,17 +144,18 @@
     ],
     "dependencies": [
       {
-        "js-controller": ">=5.0.19"
+        "js-controller": ">=6.0.11"
       }
     ],
     "globalDependencies": [
       {
-        "admin": ">=6.13.16"
+        "admin": ">=7.6.17"
       }
     ],
     "main": "main.js",
     "authors": [
-      "Pix"
+      "Pix",
+      "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
     ],
     "license": "MIT",
     "readme": "https://github.com/iobroker-community-adapters/ioBroker.tvspielfilm/blob/master/README.md",
